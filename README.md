@@ -4,9 +4,8 @@ Tic Tac Toe
 
 The Tic Tac Toe game in React.
 
-Stack:
-React
-Styles with Sass
+- React
+- Styles with Sass
 
 # Nano React App Default Javascript Template
 
