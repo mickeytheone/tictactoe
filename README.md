@@ -14,6 +14,6 @@ The default template project for [nano-react-app](https://github.com/nano-react-
 - `npm start` — This will spawn a development server with a default port of `3000`.
 - `npm run build` — This will output a production build in the `dist` directory.
 
-# URL for this project
+# Deployment
 
 https://tictactoegamefrommick.surge.sh/
